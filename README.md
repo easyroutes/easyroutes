@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 https://easyroutes.app
-https://aops.shopify.com/easyroutes
+
+https://apps.shopify.com/easyroutes
